@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+	package
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:1-12:12
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:6:5-10:19
+	android:supportsRtl
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml:7:9-41
+uses-sdk
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+		ADDED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
+		INJECTED from E:\Android-WYSIWYG-Editor-3.0.4\laser-native-editor\src\main\AndroidManifest.xml
