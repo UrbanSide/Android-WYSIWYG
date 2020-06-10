@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
 ext {
     bintrayRepo = 'maven'
     bintrayName = 'laser-native-editor'
@@ -8,7 +9,7 @@ ext {
     libraryDescription = 'Android WYSIWYG is a text editor written in Android using the native components in the content tree. The library can be used as both Editor and Renderer. The HTML parser helps it easier to integrate with specific web WYSIWY \n Updating of the project: https://github.com/irshuLx/Android-WYSIWYG-Editor p'
     siteUrl = 'https://github.com/UrbanSide/laser-native-editor'
     gitUrl = 'https://github.com/UrbanSide/laser-native-editor.git'
-    libraryVersion = '3.0.5'
+    libraryVersion = '3.0.5.1'
     developerId = 'UrbanSide'
     developerName = 'UrbanSide'
     developerEmail = 'vnd.russia@yandex.ru'
@@ -20,7 +21,9 @@ ext {
 
 android {
     compileSdkVersion 27
-
+    configurations.all {
+        resolutionStrategy.force 'com.github.bumptech.glide:glide:4.9.0'
+    }
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 27
